@@ -1,8 +1,8 @@
-# Note - don't exclude eclipse files: .project and .classpath
+# Note - don't exclude eclipse files:
+# .project
+# .classpath
+# proguard.cfg
 
 # Android gen dirs:
 bin/
 gen/
-
-# Misc files:
-*.cfg
