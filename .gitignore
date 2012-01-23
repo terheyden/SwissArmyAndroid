@@ -1,0 +1,8 @@
+# Android gen dirs:
+bin/
+gen/
+
+# Misc files:
+.classpath
+.project
+*.cfg

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SwissArmyAndroidActivity!</string>
+    <string name="app_name">SwissArmyAndroid</string>
+    <string name="spinner_prompt">Color:</string>
+
+    <string-array name="colors">
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+        </string-array>
+        <string name="testTitle">My Title</string>
+        <string name="testText">This is where my longer set of text will go. I will type this and check out how the formatting looks!</string>
+
+</resources>
