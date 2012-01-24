@@ -12,6 +12,7 @@ import android.widget.Toast;
 
 /**
  * Demonstrates a simple ListActivity.
+ * Is also our main activity.
  * See also: http://developer.android.com/resources/tutorials/views/hello-listview.html
  */
 public class MainActivity extends ListActivity {
